@@ -16,7 +16,6 @@ npm install --registry=https://registry.npmmirror.com
 # 启动服务
 npm run dev
 ```
-本地浏览器访问 http://localhost:80
 
 ## Publish
 ```bash

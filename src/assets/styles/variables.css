@@ -1,0 +1,25 @@
+/**
+$base-menu-color:hsla(0,0%,100%,.65);
+$base-menu-color-active:#fff;
+$base-menu-background:#001529;
+$base-logo-title-color: #ffffff;
+
+$base-menu-light-color:rgba(0,0,0,.70);
+$base-menu-light-background:#ffffff;
+$base-logo-light-title-color: #001529;
+
+$base-sub-menu-background:#000c17;
+$base-sub-menu-hover:#001528;
+*/
+:export {
+  menuColor: #000000;
+  menuLightColor: #2484f3;
+  menuColorActive: #2484f3;
+  menuBackground: #ffffff;
+  menuLightBackground: #ffffff;
+  subMenuBackground: #f2f2f2;
+  subMenuHover: #2484f3;
+  sideBarWidth: 200px;
+  logoTitleColor: #2484f3;
+  logoLightTitleColor: #2484f3;
+}

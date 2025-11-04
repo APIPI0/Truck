@@ -25,3 +25,8 @@ npm run build:stage
 # 构建生产环境
 npm run build:prod
 ```
+
+pictures
+<img width="1859" height="864" alt="image" src="https://github.com/user-attachments/assets/ecd4d20e-6cd3-4634-a4fb-2101ca19cb7b" />
+<img width="1065" height="677" alt="image" src="https://github.com/user-attachments/assets/c5dab75f-1931-44ad-81ac-f1b0e08d44ba" />
+<img width="1862" height="1116" alt="image" src="https://github.com/user-attachments/assets/0d1dc75c-eec5-410f-a745-0096b68ea2e4" />
